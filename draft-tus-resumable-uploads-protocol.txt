@@ -2,10 +2,14 @@
 
 
 
-TODO Working Group                                              G. Zhang
-Internet-Draft                                                Apple Inc.
-Intended status: Informational                          18 November 2021
-Expires: 22 May 2022
+TODO Working Group                                             M. Kleidl
+Internet-Draft                                           Transloadit Ltd
+Intended status: Informational                                  J. Mehta
+Expires: 27 May 2022                                            G. Zhang
+                                                              Apple Inc.
+                                                               L. Pardue
+                                                              Cloudflare
+                                                        23 November 2021
 
 
                     tus - Resumable Uploads Protocol
@@ -44,7 +48,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 22 May 2022.
+   This Internet-Draft will expire on 27 May 2022.
 
 Copyright Notice
 
@@ -78,7 +82,7 @@ Table of Contents
    7.  IANA Considerations
    8.  Normative References
    Acknowledgments
-   Author's Address
+   Authors' Addresses
 
 1.  Introduction
 
@@ -505,9 +509,27 @@ Acknowledgments
 
    TODO acknowledge.
 
-Author's Address
+Authors' Addresses
+
+   Marius Kleidl
+   Transloadit Ltd
+
+   Email: marius@transloadit.com
+
+
+   Jiten Mehta
+   Apple Inc.
+
+   Email: jmehta@apple.com
+
 
    Guoye Zhang
    Apple Inc.
 
    Email: guoye_zhang@apple.com
+
+
+   Lucas Pardue
+   Cloudflare
+
+   Email: lucaspardue.24.7@gmail.com
