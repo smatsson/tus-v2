@@ -2,14 +2,14 @@
 
 
 
-TODO Working Group                                             M. Kleidl
+HTTP                                                           M. Kleidl
 Internet-Draft                                           Transloadit Ltd
-Intended status: Informational                                  J. Mehta
-Expires: 27 May 2022                                            G. Zhang
+Intended status: Standards Track                                J. Mehta
+Expires: 30 May 2022                                            G. Zhang
                                                               Apple Inc.
                                                                L. Pardue
                                                               Cloudflare
-                                                        23 November 2021
+                                                        26 November 2021
 
 
                     tus - Resumable Uploads Protocol
@@ -48,7 +48,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 27 May 2022.
+   This Internet-Draft will expire on 30 May 2022.
 
 Copyright Notice
 
